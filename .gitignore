@@ -1,0 +1,17 @@
+# Build artifacts
+paper2_synchronization/c/producer_consumer
+paper2_synchronization/c/dining_hierarchy
+*.o
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated results and figures (reproduce with run_all.py)
+paper3_mlfq/results/*.csv
+paper3_mlfq/figures/*.png
+
+# macOS
+.DS_Store
