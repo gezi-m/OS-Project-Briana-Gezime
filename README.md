@@ -149,20 +149,3 @@ All raw results are saved to CSV files in the `results/` subdirectories. All fig
 
 ---
 
-## Environment
-
-| Component | Version |
-|-----------|---------|
-| OS | Ubuntu 24.04 LTS x86-64 |
-| GCC | 13 |
-| Python | 3.12 |
-| numpy | 1.26 |
-| matplotlib | 3.8 |
-| scipy | 1.11 |
-| psutil | 5.9 |
-
----
-
-## License
-
-MIT License. All code written for CEN 308 Operating Systems Final Project, Epoka University.
